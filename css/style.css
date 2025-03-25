@@ -1,0 +1,17 @@
+h1 {
+		color: white;
+		text-align: center;
+	}
+	.p{
+		font-family: verdana;
+		font-size: 20px;
+	}
+	h2
+	.head_one{
+		color: blue;
+	}
+	.border:{
+		width: 500px;
+	}
+	p.dotted {border-style: dotted;}
+
